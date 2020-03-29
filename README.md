@@ -15,4 +15,12 @@
 
 게임 플레이 사진   
 -------------
-![GameImg.PNG](https://github.com/HeoYuBin/SnakeGame/blob/master/GameImg.PNG)
+![GameImg.PNG](https://github.com/HeoYuBin/SnakeGame/blob/master/GameImg.PNG)   
+   
+업데이트 리스트  
+-------------
+![GameUpdate.png](https://github.com/HeoYuBin/SnakeGame/blob/master/GameUpdate.png)  
+   
+게임플레이 방법 
+-------------
+![GameTip.png](https://github.com/HeoYuBin/SnakeGame/blob/master/GameTip.png)
